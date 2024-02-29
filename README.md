@@ -2,28 +2,32 @@
 
 ## Login API
 
-URL=/api/login
+URL=https://medianv.onrender.com/api/login
 
 ## Signup API
 
-URL=/api/signup
+URL=https://medianv.onrender.com/api/signup
 
 ## GET Blogs API
 
-URL=api/allblogs
+URL=https://medianv.onrender.com/api/allblogs
 
 ## POST Blogs API
 
-URL=/api/postblog
+URL=https://medianv.onrender.com/api/postblog
 
 ## POST Comments API
 
-URL=/api/postcomment
+URL=https://medianv.onrender.com/api/postcomment
 
 ## UPDATE Blogs API
 
-URL=/api/updateblog/:id
+URL=https://medianv.onrender.com/api/updateblog/:id
 
 ## DELETE Blogs API
 
-URL=/api/deleteblog/:id
+URL=https://medianv.onrender.com/api/deleteblog/:id
+
+## Testing API
+
+URL=https://medianv.onrender.com/api/testing
